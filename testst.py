@@ -138,7 +138,7 @@ else:
                 st.info(f"💬 **Cümle:** {k['cumle']}\n\n**Çeviri:** {k['cumle_tr']}")
         
         st.write("---")
-        st.caption("Uygulama her gün otomatik olarak 3 yeni kelime seçer.")
+        st.caption("Ar-Ge çalışmalarımız devam etmektedir.- Fatih Aksakal")
 
     elif sayfa == "Matematik Öğreniyorum":
         st.title("Matematik Öğreniyorum")
